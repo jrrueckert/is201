@@ -1,0 +1,63 @@
+body {
+    background-color: slategray
+}
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    text-shadow: white;
+    text-decoration: double;
+    border: black;
+    border-style: dotted;
+    color: ghostwhite;
+}
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+img {
+    border: black;
+    border-style: solid;
+    /* border-radius: ; */
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ol, ul, li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+iframe {
+    border: black;
+    border-style: solid;
+}
+
+.container {
+    text-align: center;
+}
+  
+.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+.tableauPlaceholder {
+    width: 1000;
+    height: auto;
+}
+
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:visited {
+    color: lightsteelblue;
+    align-items: baseline;
+}
+  
+
